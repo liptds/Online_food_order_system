@@ -28,3 +28,7 @@ hs_err_pid*
 
 # Any test files
 BackEnd/src/test/
+
+
+# Webapp files for FrontEnd
+BackEnd/src/main/webapp
